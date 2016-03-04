@@ -24,6 +24,7 @@ done
 """
 
 # rephalist scraping
+"""
 rm -f rephalist.txt
 cd ..
 for BOOK in "${LIST1[@]}"
@@ -46,3 +47,4 @@ do
 	done
 	cd ..
 done
+"""

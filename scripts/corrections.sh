@@ -47,4 +47,6 @@ do
 	done
 	cd ..
 done
+# rephalist replacement
+python rephareplacer.py
 """

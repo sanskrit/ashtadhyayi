@@ -24,7 +24,6 @@ done
 """
 
 # rephalist scraping
-"""
 rm -f rephalist.txt
 cd ..
 for BOOK in "${LIST1[@]}"
@@ -48,5 +47,4 @@ do
 	cd ..
 done
 # rephalist replacement
-python rephareplacer.py
-"""
+#python rephareplacer.py

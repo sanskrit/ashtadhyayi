@@ -24,8 +24,8 @@ $main['tra'] = array(
 
 	//20 => "t ", // t end
 		
-	40 => "'", // apostrophe (avagraha)
-	41 => "`", // Latin apostrophe (’)
+	//40 => "'", // apostrophe (avagraha)
+	//41 => "`", // Latin apostrophe (’)
 	42 => "#", // Abbreviation
 	
 	116 => "Ka",
@@ -144,8 +144,8 @@ $main['scr'] = array(
 
 	//20 => "ৎ", // t end
 	
-	40 => "ऽ", // apostrophe (avagraha)
-	41 => "’", // Latin apostrophe (’)
+	//40 => "ऽ", // apostrophe (avagraha)
+	//41 => "’", // Latin apostrophe (’)
 	42 => "॰", // Abbreviation
 	
 	116 => "ख", // kha

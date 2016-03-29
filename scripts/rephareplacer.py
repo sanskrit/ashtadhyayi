@@ -4,9 +4,10 @@ def rephareplacer(inputfile):
 	fin = codecs.open(inputfile,'r','utf-8')
 	data = fin.readlines()
 	fin.close()
+	pendingfile = codecs.open('nonchanged.txt','w','utf-8')
 	for datum in data:
 		if datum[0] in [u';',u'’',u'?']:
-			pass
+			pendingfile.write(datum)
 		else:
 			split = datum.split(':')
 			changefile = str(split[2]).strip()
@@ -20,5 +21,6 @@ def rephareplacer(inputfile):
 			fchange1 = codecs.open(changefile,'w','utf-8')
 			fchange1.write(outputdata)
 			fchange1.close()
+	pendingfile.close()
 rephareplacer('rephalistforchecking.txt')
 			

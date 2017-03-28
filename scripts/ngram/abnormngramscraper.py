@@ -55,7 +55,7 @@ def getbasengrams(forThisBook,nth):
 					data = fin.read()
 					text = data.split('---')[2].strip()
 					text = transcoder.transcoder_processString(text,'deva','slp1')
-					text = re.sub('[^a-zA-Z ]+','',text)
+					text = re.sub('[^a-zA-Z \']+','',text)
 					result = result.union(getngrams(text.encode('utf-8'),nth))
 					fin.close()
 				print len(result), nth, 'gram'
@@ -73,7 +73,7 @@ def gettestngrams(forThisBook,nth):
 			data = fin.read()
 			text = data.split('---')[2].strip()
 			text = transcoder.transcoder_processString(text,'deva','slp1')
-			text = re.sub('[^a-zA-Z ]+','',text)
+			text = re.sub('[^a-zA-Z \']+','',text)
 			result = result.union(getngrams(text.encode('utf-8'),nth))
 			fin.close()
 		print len(result), nth, 'gram'
@@ -82,8 +82,12 @@ def getSKngrams(nth):
 	result = set()
 	fin = codecs.open('../../../siddhantakaumudi/sk1.txt','r','utf-8')
 	for text in fin:
+		text = re.sub(u'^[{][#]उ[0-9]+[#][}]','',text)
+		text = text.replace(u'(अ)','')
+		text = text.replace(u'(स्व)','')
 		text = transcoder.transcoder_processString(text,'deva','slp1')
-		text = re.sub('[^a-zA-Z ]+','',text)
+		text = re.sub(u'[^a-zA-Z \']+',' ',text)
+		text = re.sub('[ ]+',' ',text)
 		result = result.union(getngrams(text.encode('utf-8'),nth))
 	fin.close()
 	print len(result), nth, 'gram'
@@ -110,7 +114,7 @@ if __name__=="__main__":
 				fin.close()
 				text = data.split('---')[2].strip()
 				text = transcoder.transcoder_processString(text,'deva','slp1')
-				text = re.sub('[^a-zA-Z ]+','',text)
+				text = re.sub('[^a-zA-Z \']+','',text)
 				words = text.split(' ')
 				for word in words:
 					testngrams = ngrams(word.encode('utf-8'),nth)
@@ -120,12 +124,16 @@ if __name__=="__main__":
 						logfile.write(inputfile+'\n'+devaword+':'+devaword+':'+filein+":"+transcoder.transcoder_processString(','.join(missing),'slp1','deva')+"\n")
 	else:
 		logfile = codecs.open('../../../siddhantakaumudi/sk_'+str(nth)+'gram_suspect.txt','w','utf-8')
-		testngrams = getSKngrams(nth)
+		#testngrams = getSKngrams(nth)
 		fin = codecs.open('../../../siddhantakaumudi/sk0.txt','r','utf-8')
 		for text in fin:
 			starttext = text
+			text = re.sub(u'^[(]उ[0-9]+[)]','',text)
+			text = text.replace(u'(अ)','')
+			text = text.replace(u'(स्व)','')
 			text = transcoder.transcoder_processString(text,'deva','slp1')
-			text = re.sub('[^a-zA-Z ]+','',text)
+			text = re.sub(u'[^a-zA-Z \']+',' ',text)
+			text = re.sub('[ ]+',' ',text)
 			text = re.sub('[X]+','',text)
 			words = text.split(' ')
 			for word in words:

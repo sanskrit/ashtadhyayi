@@ -16,6 +16,9 @@ The content is located in various directories in the content folder. Each file i
 ## UI
 We use the Hugo static site generator to generate webpages.
 
+### Usage
+URL-s for various vRtti-s are maintained to look like this: [kAshikA 1.1.1](../kashika/pada-1.1/1.1.1/) or [nyAsa 1.1.1](../nyasa/pada-1.1/1.1.1/).
+
 ### Updating the UI with the latest content
 - Install [Hugo](gohugo.io)
 - Run `hugo` (Takes ~ 16s as of 20181216.)

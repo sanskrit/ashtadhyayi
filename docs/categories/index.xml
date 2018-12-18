@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on अष्टाध्यायी - मूलस्रोतः</title>
-    <link>sanskrit.github.io/ashtadhyayi/categories/</link>
+    <link>ashtadhyayi/categories/</link>
     <description>Recent content in Categories on अष्टाध्यायी - मूलस्रोतः</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="sanskrit.github.io/ashtadhyayi/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="ashtadhyayi/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -7,7 +7,9 @@
           {{ humanize .Section | upper  }}
         </p>
         <h1 class="f1">
-          {{ .Title }}
+          {{ .Params.type }}
+          {{ $sutraTitle := (print .Params.index " " .Params.sutra) }}
+          {{ .Title | default $sutraTitle}}
         </h1>
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">

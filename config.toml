@@ -1,7 +1,0 @@
-baseURL = "https://sanskrit.github.io/ashtadhyayi"
-languageCode = "en-us"
-title = "अष्टाध्यायी - मूलस्रोतः"
-theme = "ananke"
-publishDir = "docs"
-[params]
-  githubEditMePathBase = "https://github.com/sanskrit/ashtadhyayi/blob/master/content/"

@@ -1,0 +1,1 @@
+When elision of an affix has taken place (लोप), the affix still exerts its influence and the operations dependant upon it, take place as if it were present.

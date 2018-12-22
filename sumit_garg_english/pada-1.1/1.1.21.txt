@@ -1,0 +1,1 @@
+An operation should be performed on a single letter, as upon an initial or upon a final.

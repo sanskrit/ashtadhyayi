@@ -1,0 +1,1 @@
+When a single vowel is followed by a homogenous vowel, the corresponding long vowel is the single substitute for both the precedent and the subsequent vowels.

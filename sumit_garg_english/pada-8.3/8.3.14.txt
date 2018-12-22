@@ -1,0 +1,1 @@
+There is elision of र् when र् follows.

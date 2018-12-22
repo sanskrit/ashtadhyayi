@@ -1,0 +1,1 @@
+The semi-vowel substitution does not take place in the case of अङ्ग (stems) ending in भू or the word सुधी before affixes beginning with a vowel.

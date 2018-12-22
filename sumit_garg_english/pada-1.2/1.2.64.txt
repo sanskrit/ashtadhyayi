@@ -1,0 +1,1 @@
+Of the words having the same form and all in the same one case-termination, the last one is only retained.

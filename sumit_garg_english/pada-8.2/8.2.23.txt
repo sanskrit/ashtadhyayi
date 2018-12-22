@@ -1,0 +1,1 @@
+When a word ends in a double consonant the last consonant is dropped.

@@ -1,0 +1,1 @@
+There is elision of ढ् when ढ् follows.

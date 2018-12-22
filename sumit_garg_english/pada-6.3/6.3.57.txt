@@ -1,0 +1,1 @@
+उद is substituted for उदक when the compound is a Name.

@@ -4,6 +4,6 @@ build:
     - install-packages:
         packages: curl
     - canopytax/trigger-build@0.5.3:
-        application-id: ui
+        application-id: d0eeae8d13a5701771b428486ae1de1b
         token:          $WERCKER_TOKEN
         message:        vritti-update

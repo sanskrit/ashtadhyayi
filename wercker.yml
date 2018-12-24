@@ -7,4 +7,4 @@ build:
         pipeline-id: $WERCKER_PIPELINE_ID
         token: $WERCKER_TOKEN
         branch: master
-        message: vritti update
+        message: vritti update - $WERCKER_GIT_COMMIT

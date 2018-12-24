@@ -1,8 +1,10 @@
 box: debian
 build:
   steps:
+    - install-packages:
+        packages: curl
     - petrica/trigger-build:
         pipeline-id: $WERCKER_PIPELINE_ID
         token: $WERCKER_TOKEN
         branch: master
-        message: custom trigger message
+        message: vritti update

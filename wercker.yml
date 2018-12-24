@@ -1,6 +1,8 @@
 box: debian
 build:
   steps:
+    - install-packages:
+        packages: curl
     - canopytax/trigger-build@0.5.3:
         application-id: ui
         token:          $WERCKER_TOKEN

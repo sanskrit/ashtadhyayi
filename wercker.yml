@@ -1,0 +1,7 @@
+box: debian
+build:
+  steps:
+    - canopytax/trigger-build@0.5.3:
+        application-id: ui
+        token:          $WERCKER_TOKEN
+        message:        vritti-update

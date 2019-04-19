@@ -1,3 +1,3 @@
 ---
-title: siddhantakaumudi/pada-8.3
+title: सिद्धान्तकौमुदी पादः- 8.3
 ---

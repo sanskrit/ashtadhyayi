@@ -1,3 +1,3 @@
 ---
-title: padamanjari/pada-6.1
+title: पदमञ्जरी पादः- 6.1
 ---

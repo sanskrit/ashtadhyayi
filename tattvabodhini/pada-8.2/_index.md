@@ -1,3 +1,3 @@
 ---
-title: tattvabodhini/pada-8.2
+title: तत्त्वबोधिनी पादः- 8.2
 ---

@@ -1,3 +1,3 @@
 ---
-title: kashika/pada-2.2
+title: काशिका पादः- 2.2
 ---

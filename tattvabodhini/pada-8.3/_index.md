@@ -1,3 +1,3 @@
 ---
-title: tattvabodhini/pada-8.3
+title: तत्त्वबोधिनी पादः- 8.3
 ---

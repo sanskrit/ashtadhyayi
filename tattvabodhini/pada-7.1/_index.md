@@ -1,3 +1,3 @@
 ---
-title: tattvabodhini/pada-7.1
+title: तत्त्वबोधिनी पादः- 7.1
 ---

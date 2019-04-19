@@ -1,3 +1,3 @@
 ---
-title: laghusiddhantakaumudi/pada-8.2
+title: लघुसिद्धान्तकौमुदी पादः- 8.2
 ---

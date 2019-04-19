@@ -1,3 +1,3 @@
 ---
-title: satishabodha/pada-8.4
+title: सतीशबोधः पादः- 8.4
 ---

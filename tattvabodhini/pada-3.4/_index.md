@@ -1,3 +1,3 @@
 ---
-title: tattvabodhini/pada-3.4
+title: तत्त्वबोधिनी पादः- 3.4
 ---

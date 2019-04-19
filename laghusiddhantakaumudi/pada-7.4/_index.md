@@ -1,3 +1,3 @@
 ---
-title: laghusiddhantakaumudi/pada-7.4
+title: लघुसिद्धान्तकौमुदी पादः- 7.4
 ---

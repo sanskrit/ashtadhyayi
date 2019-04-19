@@ -1,3 +1,3 @@
 ---
-title: satishabodha/pada-7.3
+title: सतीशबोधः पादः- 7.3
 ---

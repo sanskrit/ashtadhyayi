@@ -1,3 +1,3 @@
 ---
-title: tattvabodhini/pada-6.1
+title: तत्त्वबोधिनी पादः- 6.1
 ---

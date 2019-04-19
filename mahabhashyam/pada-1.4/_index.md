@@ -1,3 +1,3 @@
 ---
-title: mahabhashyam/pada-1.4/
+title: महाभाष्यम् पादः- 1.4
 ---

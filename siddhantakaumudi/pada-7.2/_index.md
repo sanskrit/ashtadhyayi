@@ -1,3 +1,3 @@
 ---
-title: siddhantakaumudi/pada-7.2
+title: सिद्धान्तकौमुदी पादः- 7.2
 ---

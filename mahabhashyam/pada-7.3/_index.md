@@ -1,3 +1,3 @@
 ---
-title: mahabhashyam/pada-7.3
+title: महाभाष्यम् पादः- 7.3
 ---

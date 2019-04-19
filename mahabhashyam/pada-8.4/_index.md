@@ -1,3 +1,3 @@
 ---
-title: mahabhashyam/pada-8.4
+title: महाभाष्यम् पादः- 8.4
 ---

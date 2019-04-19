@@ -1,3 +1,3 @@
 ---
-title: balamanorama/pada-8.2
+title: बालमनोरमा पादः- 8.2
 ---

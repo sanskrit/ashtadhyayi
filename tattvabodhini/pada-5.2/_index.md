@@ -1,3 +1,3 @@
 ---
-title: tattvabodhini/pada-5.2
+title: तत्त्वबोधिनी पादः- 5.2
 ---

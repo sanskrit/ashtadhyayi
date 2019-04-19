@@ -1,3 +1,3 @@
 ---
-title: siddhantakaumudi/pada-3.2
+title: सिद्धान्तकौमुदी पादः- 3.2
 ---

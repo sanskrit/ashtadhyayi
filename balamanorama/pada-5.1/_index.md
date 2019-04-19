@@ -1,3 +1,3 @@
 ---
-title: balamanorama/pada-5.1
+title: बालमनोरमा पादः- 5.1
 ---

@@ -1,3 +1,3 @@
 ---
-title: balamanorama/pada-6.3
+title: बालमनोरमा पादः- 6.3
 ---

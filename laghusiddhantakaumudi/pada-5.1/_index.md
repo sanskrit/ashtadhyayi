@@ -1,3 +1,3 @@
 ---
-title: laghusiddhantakaumudi/pada-5.1
+title: लघुसिद्धान्तकौमुदी पादः- 5.1
 ---

@@ -1,3 +1,3 @@
 ---
-title: nyasa/pada-7.2
+title: न्यासः पादः- 7.2
 ---

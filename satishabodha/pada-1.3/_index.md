@@ -1,3 +1,3 @@
 ---
-title: satishabodha/pada-1.3/
+title: सतीशबोधः पादः- 1.3
 ---

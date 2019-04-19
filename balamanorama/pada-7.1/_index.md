@@ -1,3 +1,3 @@
 ---
-title: balamanorama/pada-7.1
+title: बालमनोरमा पादः- 7.1
 ---

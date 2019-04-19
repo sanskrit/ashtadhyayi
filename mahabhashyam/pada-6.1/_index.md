@@ -1,3 +1,3 @@
 ---
-title: mahabhashyam/pada-6.1
+title: महाभाष्यम् पादः- 6.1
 ---

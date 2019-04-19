@@ -1,3 +1,3 @@
 ---
-title: mahabhashyam/pada-3.2
+title: महाभाष्यम् पादः- 3.2
 ---

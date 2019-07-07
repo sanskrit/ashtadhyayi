@@ -7,5 +7,5 @@ build:
     - petrica/trigger-build:
         pipeline-id: $WERCKER_PIPELINE_ID
         token: $WERCKER_TOKEN
-        branch: master
+        branch: hugo-source
         message: vritti update - $WERCKER_GIT_COMMIT

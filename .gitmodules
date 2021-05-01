@@ -1,3 +1,5 @@
 [submodule "ashtadhyayi_com_transforms"]
 	path = ashtadhyayi_com_transforms
 	url = https://github.com/sanskrit/ashtadhyayi_com_transforms.git
+[submodule "vyAkaraNam/aShTAdhyAyI_central-repo"]
+	update = merge

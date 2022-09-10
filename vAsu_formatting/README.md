@@ -1,0 +1,1 @@
+A record of the original proofreading of vAsu commentary. Preserved for formatting reference. @neeleshb has ingested this data, with some defects, which I will list as issuses at https://github.com/ashtadhyayi-com/data/issues since people seem to be contributing corrections there - so that can be the canonical destination for text corrections.

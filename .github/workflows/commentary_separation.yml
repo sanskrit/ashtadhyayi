@@ -2,7 +2,7 @@ name: Babylon generation
 
 on:
   push:
-    branches: [ master ]
+    branches: [ '*' ]
   workflow_dispatch:
     inputs:
       logLevel:
